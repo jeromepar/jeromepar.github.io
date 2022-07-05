@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cérémonie Laïque Léa &amp; Jérôme</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Cérémonie Laïque Léa &amp; Jérôme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 13:42:32 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Partition</title>
+      <link>http://localhost:1313/page/partition/</link>
+      <pubDate>Fri, 01 Jul 2022 13:42:32 +0200</pubDate>
+      
+      <guid>http://localhost:1313/page/partition/</guid>
+      <description>Refrain a reprendre 3 fois </description>
+    </item>
+    
+    <item>
+      <title>Paroles du chant de la cérémonie</title>
+      <link>http://localhost:1313/page/paroles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/page/paroles/</guid>
+      <description>May the road rise to meet you Refrain (x3) :
+May the road rise to meet you.
+May the wind be at your back.
+May the sun shine warm upon your face.
+May the rain fall softly on your fields,
+and until we meet again,
+may you keep safe in the gentle,
+loving arms of God.
+Couplets :
+For everything there is a season,
+a time for loving, a time for letting go.</description>
+    </item>
+    
+    <item>
+      <title>Traduction des paroles du chant de la cérémonie</title>
+      <link>http://localhost:1313/page/traduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/page/traduction/</guid>
+      <description>May the road rise to meet you - Que les chemins viennent à ta rencontre Refrain (x3) : Que les chemins vienne a ta rencontre
+Quel le vent te pousse,
+Que le soleil réchauffe ton visage,
+Que la pluie tombe doucement sur tes champs,
+et que jusqu&amp;rsquo;a notre prochaine rencontre,
+puisse tu rester en sécurité dans les bras tendre,
+et aimants de Dieu.
+Couplets : Pour chaque chose il y a une saison,</description>
+    </item>
+    
+  </channel>
+</rss>
