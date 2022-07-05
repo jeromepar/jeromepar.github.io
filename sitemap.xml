@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jeromepar.github.io/</loc>
     <lastmod>2022-07-01T13:42:32+02:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://jeromepar.github.io/page/</loc>
     <lastmod>2022-07-01T13:42:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/partition/</loc>
+    <loc>https://jeromepar.github.io/page/partition/</loc>
     <lastmod>2022-07-01T13:42:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jeromepar.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/paroles/</loc>
+    <loc>https://jeromepar.github.io/page/paroles/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jeromepar.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/traduction/</loc>
+    <loc>https://jeromepar.github.io/page/traduction/</loc>
   </url>
 </urlset>
